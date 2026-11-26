@@ -5,7 +5,7 @@
 
 Actuellement, je travaille sur **BADDIES**, une application dédiée aux premiers gestes pour les douleurs menstruelles.
 
-Mon objectif : concevoir des projets utiles, avec une attention particulière au design et à l’expérience utilisateur.
+Mon objectif : concevoir des projets utiles, avec une attention particulière au design, accessibilité et à l’expérience utilisateur.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd3eWh3b2ptdTJjOGwzYzV6aWFncHAxdmRmcDQ4dGU1d2FrZnpsciZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif" height="150" alt="Animation de développeuse au travail" />
